@@ -1,0 +1,15 @@
+# Private source material and local deliverables
+assets/
+outputs/
+work/
+
+# Local hosting and tooling
+.openai/
+.env
+.env.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
